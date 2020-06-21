@@ -1,0 +1,64 @@
+@import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css");
+
+* {
+  font-family: "Open Sans", sans-serif;
+}
+.main {
+  text-align: center;
+}
+.header-text {
+  font-size: 50px;
+  color: #333333;
+}
+.header-text .yellow {
+  color: #fd8569;
+}
+.main-text {
+  font-size: 16px;
+  color: #414141;
+}
+.cards {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 70px;
+}
+
+.card {
+  padding: 0 20px;
+  padding-top: 50px;
+  color: #ffffff;
+  box-shadow: 0 0 10px #414141;
+}
+.card-name {
+  margin-top: 20px;
+  font-size: 20px;
+}
+.card-text {
+  margin-top: 10px;
+  font-size: 15px;
+}
+.btn-card {
+  margin-bottom: -20px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 25px;
+  background-color: #ffffff;
+  color: #333333;
+  font-size: 15px;
+  box-shadow: 0 0 10px #414141;
+}
+.blueberry {
+  background: #817eff;
+}
+.blue {
+  background: #4eb2f7;
+}
+.purple {
+  background: #c049f8;
+}
+.ping {
+  background: #f74770;
+}
+.icon {
+  font-size: 40px;
+}
